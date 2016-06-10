@@ -11,7 +11,9 @@ Fig 1. 3D view of MOSFET square-law
 ![3D view of MOSFET square-law](https://raw.githubusercontent.com/hoangtanthanh/square-law-in-3D/master/Id-Vgs-Vds.png)
 
 Fig 2. Id vs Vds
+
 ![Id vs Vgs](https://raw.githubusercontent.com/hoangtanthanh/square-law-in-3D/master/Id-Vds.png)
 
 Fig 3. Id vs Vgs
+
 ![Id vs Vds](https://raw.githubusercontent.com/hoangtanthanh/square-law-in-3D/master/Id-Vgs.png)
