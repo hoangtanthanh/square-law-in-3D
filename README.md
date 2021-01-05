@@ -1,4 +1,4 @@
-###Graphical intuition to MOSFET square-law
+### Graphical intuition to MOSFET square-law
 
 Modify those variables to get respective graphs
 ```python
